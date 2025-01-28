@@ -17,3 +17,5 @@ päringukeel - язык запроса
 realatsiooni andmebaas - реалиционные базы данных
 seos - связь
 piirangud - ограничения
+
+Server name: (localdb)\MSSQLLocalDB
